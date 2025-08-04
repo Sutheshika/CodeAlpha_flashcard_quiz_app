@@ -76,10 +76,6 @@ lib/
 - **Material Design** - Design system
 - **Custom Animations** - Flip animations for cards
 
-## 📸 Screenshots
-
-*Add screenshots of your app here once you have it running*
-
 ## 🤝 Contributing
 
 1. Fork the project
