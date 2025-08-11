@@ -113,6 +113,3 @@ This Flutter application was developed as part of the **CodeAlpha Mobile App Dev
 - [x] Confirmation dialogs for destructive actions
 - [x] Reset functionality to restart quiz
 
----
-
-**Happy Studying! 📚✨**
